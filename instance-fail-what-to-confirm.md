@@ -1,5 +1,7 @@
 Note: English version will be updated later
+
 =============================================**Tiếng Việt**=================================
+
 # Cần confirm những gì khi nhận được điều tra nguyên nhân EC2 instance fail?
 Lưu ý quan trọng trước khi bắt đầu bài viết:
 
