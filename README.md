@@ -11,3 +11,4 @@
 9. [Lưu ý khi sử dụng S3 lifecycle rule](https://github.com/shinchan79/knowledge-sharing/blob/main/s3-life-cycle-rule-notice.md)
 10. [What are the benefits when I run a Glue job inside VPC?](https://github.com/shinchan79/knowledge-sharing/blob/main/benefit-of-running-glue-job-insde-VPC.md)
 11. [I can not insert value into my table ("default"."aaaa")](https://github.com/shinchan79/knowledge-sharing/blob/main/Column-'aa'-cannot-be-resolved-trouble-shooting.md)
+12. [QuickSight-change-email-for-admin-user](https://github.com/shinchan79/knowledge-sharing/blob/main/QuickSight-change-email-for-admin-user)
