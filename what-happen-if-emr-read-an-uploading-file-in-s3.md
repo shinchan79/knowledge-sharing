@@ -58,7 +58,9 @@ You can add this in the default config, and that will add retry to your commands
 I hope, I was able to answer all your questions. P. I will request you to test these out, and see if my observations match with you, or you see any differences, and I will be glad to validate them. Thank you so much, and I apologize again for the delayed response.
 
 [1] https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html#ConsistencyModel
+
 [2] https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/
+
 [3] https://boto3.amazonaws.com/v1/documentation/api/latest/guide/retries.html
 
 We value your feedback. Please share your experience by rating this correspondence using the AWS Support Center link at the end of this correspondence. Each correspondence can also be rated by selecting the stars in top right corner of each correspondence within the AWS Support Center.
