@@ -12,3 +12,4 @@
 10. [What are the benefits when I run a Glue job inside VPC?](https://github.com/shinchan79/knowledge-sharing/blob/main/benefit-of-running-glue-job-insde-VPC.md)
 11. [I can not insert value into my table ("default"."aaaa")](https://github.com/shinchan79/knowledge-sharing/blob/main/Column-'aa'-cannot-be-resolved-trouble-shooting.md)
 12. [QuickSight-change-email-for-admin-user](https://github.com/shinchan79/knowledge-sharing/blob/main/QuickSight-change-email-for-admin-user)
+13. [Good apps to learn English speaking](https://github.com/shinchan79/knowledge-sharing/blob/main/General/app-to-learn-English-speaking.md)
